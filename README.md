@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @F4max
+- 👀 I’m interested in java
+- 🌱 I’m currently learning C++
+- 📫 Discord : f4max
